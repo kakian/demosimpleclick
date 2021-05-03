@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 else{
                     etInput.setEnabled(false);
                 }*/
-                etInput.setEnabled(tbtn.isChecked());
+                etInput.setEnabled(tbtn.isChecked());//some
             }
         });
 
